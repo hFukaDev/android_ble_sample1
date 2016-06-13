@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Blesample1</string>
-    <string name="scan_start">ScanStart</string>
+    <string name="scan_start">Start Scan</string>
+    <string name="scan_stop">Stop Stop</string>
 </resources>
